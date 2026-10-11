@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Colors of Navratri | NAVARATRI</title>
+  <meta name="description" content="Explore the colours associated with the nine nights of Navratri, what they symbolise, and why charts differ by year and tradition.">
+  <meta name="author" content="Dija Ramsoedit">
+  <meta name="theme-color" content="#641220">
+  <meta property="og:title" content="The Colors of Navratri | NAVARATRI">
+  <meta property="og:description" content="Explore the colours associated with the nine nights of Navratri, what they symbolise, and why charts differ by year and tradition.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="images/hero-mandala.svg">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="css/styles.css">
+  <script>try{var t=localStorage.getItem("navaratri-theme");if(t==="night")document.documentElement.dataset.theme="night"}catch(e){}</script>
+  <script type="module" src="js/main.js"></script>
+</head>
+<body data-page="colors">
+<a class="skip-link" href="#main">Skip to main content</a>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="index.html" aria-label="NAVARATRI home"><alt="" width="36" height="36"><span>NAVARATRI</span></a>
+    <div class="header-tools">
+      <button class="theme-btn" id="theme-toggle" type="button" aria-pressed="false"><span class="theme-label">Night theme</span></button>
+      <button class="nav-toggle" id="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav"><span class="toggle-label">Menu</span></button>
+    </div>
+    <nav id="site-nav" class="site-nav" aria-label="Main"><ul><li><a href="index.html">Home</a></li><li><a href="devis.html">The Nine Devis</a></li><li><a href="colors.html" aria-current="page">The Colors</a></li><li><a href="navratri.html">Today</a></li><li><a href="about.html">About</a></li></ul></nav>
+  </div>
+</header>
+<main id="main">
+<section class="page-hero"><div class="container"><h1>The Colors of Navratri</h1><p>Colour is part of how many devotees mark each night. Here is what the colours stand for, and why no single chart is the rule.</p></div></section>
+
+<section class="section" aria-labelledby="sym-title">
+  <div class="container two-col">
+    <div class="prose"><h2 id="sym-title">Colour in Hindu traditions</h2>
+      <p>Colours carry meaning in Hindu life: saffron for renunciation and fire, red for auspiciousness and power, white for purity, yellow for turmeric and knowledge. During Navratri some devotees wear a colour assigned to each night.</p>
+      <p>These meanings are symbolic readings, not religious laws. Practice is a matter of community and personal choice.</p></div>
+    <div class="notice"><h3>One chart, not the rule</h3><p id="chart-note"></p></div>
+  </div>
+</section>
+<section class="section alt" aria-labelledby="explorer-title">
+  <div class="container">
+    <h2 id="explorer-title">Colour explorer</h2>
+    <p id="loading" class="status" role="status">Loading the colours…</p>
+    <div id="colors-error" class="error-box" role="alert" hidden><p>The colour information could not be loaded.</p><button class="btn btn-primary" id="retry-btn" type="button">Try again</button></div>
+    <div class="color-explorer-grid">
+      <div id="color-wheel" class="wheel" role="group" aria-label="Colour wheel, one button per night"></div>
+      <div id="color-explorer" class="detail-panel" tabindex="-1" aria-live="polite"></div>
+    </div>
+  </div>
+</section>
+<section class="section" aria-labelledby="gallery-title">
+  <div class="container">
+    <h2 id="gallery-title">Colour gallery</h2>
+    <ul id="color-gallery" class="card-grid"></ul>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div><h2>NAVARATRI</h2><p>An educational site about Navratri and the nine forms of Maa Durga, the Navadurga. Nine Nights. Nine Forms. One Divine Shakti.</p></div>
+      <div><h2>Explore</h2><ul><li><a href="index.html">Home</a></li><li><a href="devis.html">The Nine Devis</a></li><li><a href="colors.html">The Colors</a></li><li><a href="navratri.html">Navratri</a></li><li><a href="about.html">About</a></li></ul></div>
+      <div><h2>Project</h2><ul><li><a href="attributions.html">Attributions</a></li><li><a href="https://github.com/D23RAM" data-video-link>Github</a></li><li><a href="about.html#feedback">Send feedback</a></li></ul></div>
+    </div>
+    <p class="copyright">&copy; 2026 Dija Ramsoedit. WDD231 final project.</p>
+  </div>
+</footer>
+</body>
+</html>

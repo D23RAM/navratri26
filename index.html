@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NAVARATRI | Nine Nights. Nine Forms. One Divine Shakti.</title>
+  <meta name="description" content="Explore Navratri and the nine forms of Maa Durga, the Navadurga: their stories, symbols, colours and meaning.">
+  <meta name="author" content="Dija Ramsoedit">
+  <meta name="theme-color" content="#641220">
+  <meta property="og:title" content="NAVARATRI | Nine Nights. Nine Forms. One Divine Shakti.">
+  <meta property="og:description" content="Explore Navratri and the nine forms of Maa Durga, the Navadurga: their stories, symbols, colours and meaning.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="images/hero-mandala.svg">
+  <link rel="icon" type="image/svg+xml" href="images/hero-mandala.svg">
+  <link rel="stylesheet" href="css/styles.css">
+  <script>try{var t=localStorage.getItem("navaratri-theme");if(t==="night")document.documentElement.dataset.theme="night"}catch(e){}</script>
+  <script type="module" src="js/main.js"></script>
+</head>
+<body data-page="home">
+<a class="skip-link" href="#main">Skip to main content</a>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="index.html" aria-label="NAVARATRI home"><alt="" width="36" height="36"><span>NAVARATRI</span></a>
+    <div class="header-tools">
+      <button class="theme-btn" id="theme-toggle" type="button" aria-pressed="false"><span class="theme-label">Night theme</span></button>
+      <button class="nav-toggle" id="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav"><span class="toggle-label">Menu</span></button>
+    </div>
+    <nav id="site-nav" class="site-nav" aria-label="Main"><ul><li><a href="index.html" aria-current="page">Home</a></li><li><a href="devis.html">The Nine Devis</a></li><li><a href="colors.html">The Colors</a></li><li><a href="navratri.html">Today</a></li><li><a href="about.html">About</a></li></ul></nav>
+  </div>
+</header>
+<main id="main">
+
+<section class="hero" aria-labelledby="hero-title">
+  <div class="container hero-grid">
+    <div>
+      <p class="devanagari-title" lang="sa">नवरात्रि · नवदुर्गा</p>
+      <h1 id="hero-title">Nine Nights. Nine Forms. One Divine Shakti.</h1>
+      <p class="lead">Navratri is the Hindu festival of nine nights devoted to the goddess Durga in her nine forms. Each night honours one Devi, with her own story, symbols and qualities.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#devis">Meet the Nine Devis</a>
+        <a class="btn btn-ghost" href="#meaning">Discover the Meaning</a>
+      </div>
+    </div>
+    <figure class="hero-figure"><img src="images/hero-mandala.svg" alt="Golden mandala with a lotus and the sacred syllable Om on a deep violet background" width="900" height="900" fetchpriority="high"></figure>
+  </div>
+</section>
+
+<section class="section" id="what-is" aria-labelledby="what-title">
+  <div class="container two-col">
+    <div>
+      <h2 id="what-title">What is Navratri?</h2>
+      <p>The word comes from Sanskrit: <em>nava</em> means nine and <em>ratri</em> means night. Navratri is celebrated in the autumn month of Ashwin and, in a shorter spring observance, in Chaitra. It is followed by Vijayadashami, the tenth day.</p>
+      <p>Hindus honour the goddess in many names and forms. In Navratri she is worshipped as Durga, whose nine forms, the Navadurga, are remembered one for each night.</p>
+    </div>
+    <div>
+      <h3>Why Shakti?</h3>
+      <p><em>Shakti</em> means power or energy. In many Hindu traditions it is the divine feminine, the force that creates, sustains and renews the world. Navratri celebrates her as protector, mother and teacher.</p>
+      <p class="note">Traditions explain the festival in different ways. This site describes common versions of the stories and notes where they vary.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section alt" id="devis" aria-labelledby="devis-title">
+  <div class="container">
+    <div class="section-head"><h2 id="devis-title">The Nine Devis</h2>
+      <p>One form for each night. Colours shown follow the 2026 chart; <a href="colors.html">colour conventions vary</a> by year and community.</p></div>
+    <p id="loading" class="status" role="status">Loading the Devis…</p>
+<div id="error-state" class="error-box" role="alert" hidden><p id="error-message"></p><button class="btn btn-primary" id="retry-btn" type="button">Try again</button></div>
+    <div id="devi-grid" class="card-grid"></div>
+    <p><a class="btn btn-ghost" href="devis.html">Search and filter all nine Devis</a></p>
+  </div>
+</section>
+
+<section class="section" id="colors" aria-labelledby="colors-title">
+  <div class="container">
+    <div class="section-head"><h2 id="colors-title">The colours of the nine nights</h2>
+      <p id="color-note"></p></div>
+    <ul id="color-strip" class="chips"></ul>
+    <div id="color-detail" class="detail-panel" aria-live="polite"><p>Select a colour to read what it symbolises and which Devi it is paired with.</p></div>
+    <p><a href="colors.html">Explore the colours in depth</a></p>
+  </div>
+</section>
+
+<section class="section alt" id="meaning" aria-labelledby="meaning-title">
+  <div class="container">
+    <div class="section-head"><h2 id="meaning-title">The Meaning Behind the Nine Nights</h2>
+      <p>The nine forms follow a story from beginnings to fulfilment. One way of reading that movement is in three stages of three nights.</p></div>
+    <div class="arc-grid" data-festival="arcs"></div>
+    <p class="note" data-festival-note="arcsNote"></p>
+  </div>
+</section>
+
+<section class="section cta" aria-labelledby="cta-title">
+  <div class="container">
+    <h2 id="cta-title">Begin with the first night</h2>
+    <p>Read the stories, learn the symbols and save the Devis you want to return to.</p>
+    <a class="btn btn-primary" href="devis.html">Explore the Nine Devis</a>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div><h2>NAVARATRI</h2><p>An educational site about Navratri and the nine forms of Maa Durga, the Navadurga. Nine Nights. Nine Forms. One Divine Shakti.</p></div>
+      <div><h2>Explore</h2><ul><li><a href="index.html">Home</a></li><li><a href="devis.html">The Nine Devis</a></li><li><a href="colors.html">The Colors</a></li><li><a href="navratri.html">Navratri</a></li><li><a href="about.html">About</a></li></ul></div>
+      <div><h2>Project</h2><ul><li><a href="attributions.html">Attributions</a></li><li><a href="https://github.com/D23RAM" data-video-link>Github</a></li><li><a href="about.html#feedback">Send feedback</a></li></ul></div>
+    </div>
+    <p class="copyright">&copy; 2026 Dija Ramsoedit. WDD231 final project.</p>
+  </div>
+</footer>
+</body>
+</html>

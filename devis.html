@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Nine Devis | NAVARATRI</title>
+  <meta name="description" content="Search and explore the nine forms of Maa Durga, the Navadurga, by name, day, colour, symbols and qualities.">
+  <meta name="author" content="Dija Ramsoedit">
+  <meta name="theme-color" content="#641220">
+  <meta property="og:title" content="The Nine Devis | NAVARATRI">
+  <meta property="og:description" content="Search and explore the nine forms of Maa Durga, the Navadurga, by name, day, colour, symbols and qualities.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="images/hero-mandala.svg">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="css/styles.css">
+  <script>try{var t=localStorage.getItem("navaratri-theme");if(t==="night")document.documentElement.dataset.theme="night"}catch(e){}</script>
+  <script type="module" src="js/main.js"></script>
+</head>
+<body data-page="devis">
+<a class="skip-link" href="#main">Skip to main content</a>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="index.html" aria-label="NAVARATRI home"><alt="" width="36" height="36"><span>NAVARATRI</span></a>
+    <div class="header-tools">
+      <button class="theme-btn" id="theme-toggle" type="button" aria-pressed="false"><span class="theme-label">Night theme</span></button>
+      <button class="nav-toggle" id="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav"><span class="toggle-label">Menu</span></button>
+    </div>
+    <nav id="site-nav" class="site-nav" aria-label="Main"><ul><li><a href="index.html">Home</a></li><li><a href="devis.html" aria-current="page">The Nine Devis</a></li><li><a href="colors.html">The Colors</a></li><li><a href="navratri.html">Today</a></li><li><a href="about.html">About</a></li></ul></nav>
+  </div>
+</header>
+<main id="main">
+<section class="page-hero"><div class="container"><h1>The Nine Devis</h1><p>The Navadurga are the nine forms of Durga honoured on the nine nights of Navratri. Each form carries her own qualities and symbols.</p></div></section>
+
+<section class="section" aria-labelledby="explore-title">
+  <div class="container">
+    <h2 id="explore-title">Find a Devi</h2>
+    <form id="filters-form" class="controls" role="search" aria-label="Search and filter Devis">
+      <div class="field"><label for="search">Search by name, quality, symbol or colour</label><input id="search" type="search" autocomplete="off" placeholder="For example: lion, courage, white"></div>
+      <div class="field"><label for="filter-day">Day of Navratri</label><select id="filter-day"><option value="all">All days</option></select></div>
+      <div class="field"><label for="filter-color">Colour (2026 chart)</label><select id="filter-color"><option value="all">All colours</option></select></div>
+      <div class="field"><label for="filter-theme">Quality or theme</label><select id="filter-theme"><option value="all">All themes</option></select></div>
+    </form>
+    <div class="toolbar">
+      <button class="btn btn-ghost" id="fav-toggle" type="button" aria-pressed="false">Show Favorites (<span id="fav-count">0</span>)</button>
+      <button class="btn btn-ghost" id="reset-filters" type="button">Reset filters</button>
+      <button class="btn btn-primary" id="discover-btn" type="button">Discover a Devi</button>
+    </div>
+    <div id="discover-panel" class="discover-panel" tabindex="-1" aria-live="polite" hidden></div>
+    <p id="result-count" class="status" role="status"></p>
+    <p id="fav-status" class="status" role="status"></p>
+    <p id="loading" class="status" role="status">Loading the Devis…</p>
+<div id="error-state" class="error-box" role="alert" hidden><p id="error-message"></p><button class="btn btn-primary" id="retry-btn" type="button">Try again</button></div>
+    <div id="empty-state" class="empty" hidden><p></p></div>
+    <div id="devi-grid" class="card-grid"></div>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div><h2>NAVARATRI</h2><p>An educational site about Navratri and the nine forms of Maa Durga, the Navadurga. Nine Nights. Nine Forms. One Divine Shakti.</p></div>
+      <div><h2>Explore</h2><ul><li><a href="index.html">Home</a></li><li><a href="devis.html">The Nine Devis</a></li><li><a href="colors.html">The Colors</a></li><li><a href="navratri.html">Navratri</a></li><li><a href="about.html">About</a></li></ul></div>
+      <div><h2>Project</h2><ul><li><a href="attributions.html">Attributions</a></li><li><a href="https://github.com/D23RAM" data-video-link>Github</a></li><li><a href="about.html#feedback">Send feedback</a></li></ul></div>
+    </div>
+    <p class="copyright">&copy; 2026 Dija Ramsoedit. WDD231 final project.</p>
+  </div>
+</footer>
+</body>
+</html>

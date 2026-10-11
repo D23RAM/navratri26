@@ -1,0 +1,299 @@
+{
+  "entries": [
+    {
+      "id": "trident",
+      "title": "Trident (Trishula)",
+      "category": "Objects",
+      "description": "A three-pronged spear carried by Shiva and by Durga in many images. Shailputri and Mahagauri hold it.",
+      "significance": "Often read as power over the three gunas, the three times (past, present, future) or the three worlds. Interpretations differ.",
+      "devis": [
+        "shailputri",
+        "mahagauri"
+      ],
+      "source": {
+        "label": "Trishula (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Trishula"
+      }
+    },
+    {
+      "id": "lotus",
+      "title": "Lotus (Padma)",
+      "category": "Objects",
+      "description": "A flower that grows in mud and rises clean above the water. Several Devis hold or sit on a lotus.",
+      "significance": "A common symbol of purity, spiritual growth and detachment from surroundings.",
+      "devis": [
+        "shailputri",
+        "skandamata",
+        "katyayani",
+        "siddhidatri"
+      ],
+      "source": {
+        "label": "Durga (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Durga"
+      }
+    },
+    {
+      "id": "crescent",
+      "title": "Crescent moon",
+      "category": "Symbols",
+      "description": "A half-moon worn in the hair of Shiva and on the brow of Shailputri and Chandraghanta.",
+      "significance": "Linked with calm, with the passing of time and with the mind at rest.",
+      "devis": [
+        "shailputri",
+        "chandraghanta"
+      ],
+      "source": {
+        "label": "Navadurga (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Navadurga"
+      }
+    },
+    {
+      "id": "japa-mala",
+      "title": "Japa mala",
+      "category": "Objects",
+      "description": "A string of beads used to count repetitions of a name or mantra. Brahmacharini holds one in her right hand.",
+      "significance": "Represents steady practice and concentration; the discipline of repetition.",
+      "devis": [
+        "brahmacharini"
+      ],
+      "source": {
+        "label": "Navadurga (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Navadurga"
+      }
+    },
+    {
+      "id": "kamandalu",
+      "title": "Kamandalu",
+      "category": "Objects",
+      "description": "A small water pot traditionally carried by sages and ascetics.",
+      "significance": "Stands for simplicity and for having only what is needed. It also belongs to Brahmacharini's iconography.",
+      "devis": [
+        "brahmacharini",
+        "kushmanda"
+      ],
+      "source": {
+        "label": "Navadurga (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Navadurga"
+      }
+    },
+    {
+      "id": "bell",
+      "title": "Bell (Ghanta)",
+      "category": "Objects",
+      "description": "Bells are rung in Hindu temples to begin worship. Chandraghanta takes her name from a bell-shaped moon.",
+      "significance": "The sound is said to welcome the divine and to clear the mind of distraction. This is a devotional interpretation.",
+      "devis": [
+        "chandraghanta"
+      ],
+      "source": {
+        "label": "Navadurga (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Navadurga"
+      }
+    },
+    {
+      "id": "sword",
+      "title": "Sword (Khadga)",
+      "category": "Objects",
+      "description": "A weapon shown in several forms of Durga, including Katyayani and Kalaratri.",
+      "significance": "Often understood as discernment that cuts through ignorance, as well as the power to defend justice.",
+      "devis": [
+        "katyayani",
+        "kalaratri"
+      ],
+      "source": {
+        "label": "Durga (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Durga"
+      }
+    },
+    {
+      "id": "conch",
+      "title": "Conch (Shankha)",
+      "category": "Objects",
+      "description": "A shell blown as a horn in rituals. It appears in the hands of Siddhidatri.",
+      "significance": "Its sound announces auspicious beginnings and is linked with the primordial sound Om.",
+      "devis": [
+        "siddhidatri"
+      ],
+      "source": {
+        "label": "Shankha (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Shankha"
+      }
+    },
+    {
+      "id": "chakra",
+      "title": "Discus (Chakra)",
+      "category": "Objects",
+      "description": "A spinning disc held by Siddhidatri, and by Vishnu as the Sudarshana Chakra.",
+      "significance": "Represents the cycle of time and the turning of dharma.",
+      "devis": [
+        "siddhidatri",
+        "kushmanda"
+      ],
+      "source": {
+        "label": "Sudarshana Chakra (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Sudarshana_Chakra"
+      }
+    },
+    {
+      "id": "mace",
+      "title": "Mace (Gada)",
+      "category": "Objects",
+      "description": "A heavy club shown in the hands of Kushmanda and Siddhidatri.",
+      "significance": "Symbolises strength used with purpose, and the removal of obstacles.",
+      "devis": [
+        "kushmanda",
+        "siddhidatri"
+      ],
+      "source": {
+        "label": "Durga (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Durga"
+      }
+    },
+    {
+      "id": "lion",
+      "title": "Lion",
+      "category": "Animals",
+      "description": "The traditional mount of Durga, and of several of her Navadurga forms, including Chandraghanta, Kushmanda, Skandamata and Katyayani.",
+      "significance": "Courage and sovereignty under control; power that serves protection.",
+      "devis": [
+        "chandraghanta",
+        "kushmanda",
+        "skandamata",
+        "katyayani"
+      ],
+      "source": {
+        "label": "Durga (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Durga"
+      }
+    },
+    {
+      "id": "bull",
+      "title": "Bull (Nandi)",
+      "category": "Animals",
+      "description": "The white bull associated with Shiva. Shailputri and Mahagauri ride one.",
+      "significance": "Steadiness and devotion. It is a reminder of their connection to Shiva.",
+      "devis": [
+        "shailputri",
+        "mahagauri"
+      ],
+      "source": {
+        "label": "Navadurga (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Navadurga"
+      }
+    },
+    {
+      "id": "donkey",
+      "title": "Donkey (Gardabha)",
+      "category": "Animals",
+      "description": "The mount described for Kalaratri.",
+      "significance": "Often read as humility: even the least admired creature can carry the goddess. Devotional interpretations vary.",
+      "devis": [
+        "kalaratri"
+      ],
+      "source": {
+        "label": "Navadurga (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Navadurga"
+      }
+    },
+    {
+      "id": "abhaya",
+      "title": "Abhaya mudra",
+      "category": "Gestures",
+      "description": "A raised open palm held toward the viewer. Many images of the Devis show it.",
+      "significance": "Means 'do not fear'. It is a gesture of protection and reassurance.",
+      "devis": [
+        "skandamata",
+        "katyayani",
+        "kalaratri",
+        "mahagauri"
+      ],
+      "source": {
+        "label": "Mudra (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Mudra"
+      }
+    },
+    {
+      "id": "varada",
+      "title": "Varada mudra",
+      "category": "Gestures",
+      "description": "An open palm turned downward, with fingers pointing down.",
+      "significance": "The gesture of giving: blessings and boons offered to devotees.",
+      "devis": [
+        "katyayani",
+        "kalaratri",
+        "mahagauri"
+      ],
+      "source": {
+        "label": "Mudra (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Mudra"
+      }
+    },
+    {
+      "id": "shakti",
+      "title": "Shakti",
+      "category": "Concepts",
+      "description": "The Sanskrit word for power or energy, understood in many Hindu traditions as the dynamic divine feminine principle.",
+      "significance": "In Shakta traditions Shakti is the ultimate reality; in other traditions she is the active power of a god. Navratri celebrates her.",
+      "devis": [
+        "shailputri",
+        "siddhidatri"
+      ],
+      "source": {
+        "label": "Shakti (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Shakti"
+      }
+    },
+    {
+      "id": "nine",
+      "title": "The number nine",
+      "category": "Concepts",
+      "description": "Navratri lasts nine nights and honours nine forms of the goddess.",
+      "significance": "Nine is the number of completion in many Indian systems of counting. Some traditions link it to nine planets or nine kinds of devotion, but interpretations vary.",
+      "devis": [],
+      "source": {
+        "label": "Navaratri (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Navaratri"
+      }
+    },
+    {
+      "id": "kalasha",
+      "title": "Kalasha (sacred pot)",
+      "category": "Festival",
+      "description": "A pot filled with water, topped with leaves and a coconut. Many households install one at the start of Navratri; Kushmanda holds a similar pot of nectar.",
+      "significance": "Signifies abundance, life and the presence of the divine in the pot.",
+      "devis": [
+        "kushmanda"
+      ],
+      "source": {
+        "label": "Kalasha (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Kalasha"
+      }
+    },
+    {
+      "id": "garba",
+      "title": "Garba and Dandiya",
+      "category": "Festival",
+      "description": "Circle dances of Gujarat danced during the nine nights, with sticks in dandiya.",
+      "significance": "The circle is often explained as the cycle of life, around a central light that represents the goddess. Dance becomes an offering.",
+      "devis": [],
+      "source": {
+        "label": "Navaratri (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Navaratri"
+      }
+    },
+    {
+      "id": "vijayadashami",
+      "title": "Vijayadashami",
+      "category": "Festival",
+      "description": "The tenth day, after the nine nights, celebrated as Dussehra in many regions.",
+      "significance": "Marks the victory of good over evil: Durga's victory over Mahishasura in some regions and Rama's victory over Ravana in others.",
+      "devis": [
+        "katyayani"
+      ],
+      "source": {
+        "label": "Vijayadashami (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Vijayadashami"
+      }
+    }
+  ]
+}

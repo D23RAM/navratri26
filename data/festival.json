@@ -1,0 +1,128 @@
+{
+  "tithis": ["Pratipada", "Dwitiya", "Tritiya", "Chaturthi", "Panchami", "Shashthi", "Saptami", "Ashtami", "Navami"],
+  "arcs": [
+    {
+      "title": "Foundation",
+      "days": "Days 1 to 3",
+      "text": "The first three forms (Shailputri, Brahmacharini, Chandraghanta) move from origin to discipline to courage. One reading sees this as preparing the ground: begin steadily, practise patiently, then stand firm."
+    },
+    {
+      "title": "Creation and care",
+      "days": "Days 4 to 6",
+      "text": "Kushmanda, Skandamata and Katyayani are linked with creation, motherhood and the defence of what is right. This reading connects the middle days with energy turned into life and responsibility."
+    },
+    {
+      "title": "Transformation",
+      "days": "Days 7 to 9",
+      "text": "Kalaratri removes fear and ignorance, Mahagauri brings peace and renewal, and Siddhidatri represents fulfilment. These last nights are often described as the passage from darkness to completion."
+    }
+  ],
+  "arcsNote": "This three-part reading is one way to see the sequence. A separate and equally well-known tradition divides the nine nights among Durga, Lakshmi and Saraswati. Different communities understand the progression in different ways.",
+  "observances": [
+    {
+      "id": "sharad",
+      "name": "Sharad Navratri",
+      "month": "Ashwin (Shukla Paksha)",
+      "season": "Autumn",
+      "description": "The most widely celebrated Navratri. It begins on the first lunar day (Pratipada) of the bright half of the month of Ashwin and leads to Vijayadashami, also called Dussehra, on the tenth day. It is the festival most people mean when they say Navratri.",
+      "focus": "Durga and Shakti, and in many regions the victory of good over evil"
+    },
+    {
+      "id": "chaitra",
+      "name": "Chaitra Navratri",
+      "month": "Chaitra (Shukla Paksha)",
+      "season": "Spring",
+      "description": "A spring Navratri that begins on the first lunar day of the month of Chaitra. In many regions it also marks the start of a new year, and it ends with Rama Navami, which celebrates the birth of Rama, in several traditions.",
+      "focus": "Devi worship, with Rama Navami as the closing day in many communities"
+    }
+  ],
+  "observanceNote": "Traditional sources also speak of two further Navratris, Ashadha and Magha (sometimes called Gupt Navratri), which are observed mainly by particular communities. The two above are the ones most widely celebrated.",
+  "traditions": [
+    {
+      "name": "Garba and Dandiya",
+      "region": "Gujarat and Gujarati communities worldwide",
+      "description": "Nights of circle dances around a lamp or an image of the goddess, with sticks used in the dandiya dances. Garba is also danced by Gujarati communities in many countries.",
+      "emphasis": "Community, music and dance as devotion"
+    },
+    {
+      "name": "Durga Puja",
+      "region": "Bengal, Odisha, Assam and Bengali communities",
+      "description": "The festival centres on elaborate images of Durga that are worshipped over the last days, usually from Shashthi to Dashami, and are immersed in water at the end.",
+      "emphasis": "Durga's visit to her parents' home, and art in temporary pavilions"
+    },
+    {
+      "name": "Ramlila and Dussehra",
+      "region": "Northern India",
+      "description": "Dramatised retellings of the Ramayana, ending on Vijayadashami with the burning of effigies of Ravana in many places.",
+      "emphasis": "Rama's victory over Ravana"
+    },
+    {
+      "name": "Golu or Kolu",
+      "region": "Tamil Nadu, Andhra Pradesh, Karnataka and nearby regions",
+      "description": "Families arrange dolls and figures on stepped platforms in their homes and invite visitors to see them during the nine days.",
+      "emphasis": "Storytelling, family and hospitality"
+    },
+    {
+      "name": "Mysuru Dasara",
+      "region": "Karnataka",
+      "description": "A royal tradition of festivities in the city of Mysuru, with a famous procession on Vijayadashami.",
+      "emphasis": "Goddess Chamundeshwari and civic celebration"
+    },
+    {
+      "name": "Fasting and devotion at home",
+      "region": "Across India and the diaspora",
+      "description": "Many families observe fasts, install a sacred pot at home, sing devotional songs and visit a temple. Customs vary widely between households and communities.",
+      "emphasis": "Personal and family devotion"
+    }
+  ],
+  "traditionsSource": { "label": "Navaratri (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Navaratri" },
+  "calendar": {
+    "2026": {
+      "location": "Suriname (UTC-03:00, America/Paramaribo)",
+      "status": "verified",
+      "statusNote": "Checked against several published calendar websites that agree on the same dates. Those sites publish for India, so confirm with your local mandir, pandit or Hindu organisation in Suriname before relying on the dates for observance. The first tithi (Pratipada) is reported to run until about 21:30 IST on 11 October, which is about midday in Suriname, so the first day is 11 October in both places.",
+      "observances": {
+        "sharad": {
+          "label": "Sharad Navratri 2026",
+          "start": "2026-10-11",
+          "end": "2026-10-19",
+          "ghatasthapana": "2026-10-11",
+          "vijayadashami": "2026-10-20",
+          "days": [
+            { "day": 1, "date": "2026-10-11", "deviId": "shailputri" },
+            { "day": 2, "date": "2026-10-12", "deviId": "brahmacharini" },
+            { "day": 3, "date": "2026-10-13", "deviId": "chandraghanta" },
+            { "day": 4, "date": "2026-10-14", "deviId": "kushmanda" },
+            { "day": 5, "date": "2026-10-15", "deviId": "skandamata" },
+            { "day": 6, "date": "2026-10-16", "deviId": "katyayani" },
+            { "day": 7, "date": "2026-10-17", "deviId": "kalaratri" },
+            { "day": 8, "date": "2026-10-18", "deviId": "mahagauri" },
+            { "day": 9, "date": "2026-10-19", "deviId": "siddhidatri" }
+          ]
+        },
+        "chaitra": {
+          "label": "Chaitra Navratri 2026",
+          "start": "2026-03-19",
+          "end": "2026-03-27"
+        }
+      },
+      "sources": [
+        { "label": "Navratri 2026: Date, Tithi and Significance (Shubh Panchang)", "url": "https://shubhpanchang.com/festivals/navaratri-prarambh" },
+        { "label": "Navratri 2026 dates, nine colours (Hindutone)", "url": "https://hindutone.com/festivals/navratri-2026-dates-ghatasthapana-puja-vidhi/" },
+        { "label": "Sharad Navratri 2026 guide (Indian Eagle)", "url": "https://www.indianeagle.com/traveldiary/sharad-navratri-2026-dates-puja-rituals-fasting-colours/" },
+        { "label": "When is Navratri 2026? (IndiaBonds)", "url": "https://www.indiabonds.com/kuchbhi/when-is-navratri-2026/" },
+        { "label": "Happy Navratri 2026 day table (Rampuri)", "url": "https://rampuri.com/happy-navratri/" }
+      ]
+    },
+    "2025": {
+      "location": "Suriname (UTC-03:00, America/Paramaribo)",
+      "status": "unverified",
+      "statusNote": "Dates for 2025 have not been added or verified for this site. See the README for how to add a verified year."
+    },
+    "2027": {
+      "location": "Suriname (UTC-03:00, America/Paramaribo)",
+      "status": "unverified",
+      "statusNote": "Dates for 2027 have not been added or verified for this site. See the README for how to add a verified year."
+    }
+  }
+}

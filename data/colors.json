@@ -1,0 +1,87 @@
+{
+  "chartYear": "2026",
+  "chartNote": "The day-to-colour pairing below follows the colour chart published for Sharad Navratri 2026 by several Indian calendar websites. Many of these charts follow the weekday on which each day falls, so the colour for a given Devi changes from year to year. Other communities and temples use different colours or none at all. Treat this as one commonly published chart, not a universal rule.",
+  "colors": [
+    {
+      "id": "orange",
+      "name": "Orange",
+      "hex": "#F57C00",
+      "symbolism": "Energy, enthusiasm and the flame of a lamp",
+      "description": "Orange and saffron are the colours of fire, of sunrise and of renunciation in Hindu traditions. As the first colour of the 2026 chart, orange opens the festival with a feeling of warmth and new beginnings.",
+      "variationNote": "Some charts begin the nine days with other colours, such as yellow or green. Saffron shades are used in many temples throughout the festival.",
+      "assignments": { "2026": { "day": 1, "deviId": "shailputri" } }
+    },
+    {
+      "id": "white",
+      "name": "White",
+      "hex": "#FFFFFF",
+      "symbolism": "Peace, purity and simplicity",
+      "description": "White is associated with clarity of mind and with the plain clothing of ascetics. In the 2026 chart it falls on the day of Maa Brahmacharini, whose penance is a story of discipline.",
+      "variationNote": "White also appears in other years' charts on other days, and Mahagauri is often described as dressed in white regardless of the chart.",
+      "assignments": { "2026": { "day": 2, "deviId": "brahmacharini" } }
+    },
+    {
+      "id": "red",
+      "name": "Red",
+      "hex": "#C62828",
+      "symbolism": "Strength, courage and auspiciousness",
+      "description": "Red is the colour of sindoor, of bridal clothing and of many images of the goddess. It stands for power and for protection. In the 2026 chart it is paired with Maa Chandraghanta.",
+      "variationNote": "Red is the most widely used colour for Devi worship overall and is worn by many devotees on every day of the festival.",
+      "assignments": { "2026": { "day": 3, "deviId": "chandraghanta" } }
+    },
+    {
+      "id": "royal-blue",
+      "name": "Royal Blue",
+      "hex": "#1F4FB3",
+      "symbolism": "Depth, calm and the expanse of the cosmos",
+      "description": "Blue suggests the sky and the vastness of creation. In the 2026 chart it is paired with Maa Kushmanda, the Devi remembered as the creator of the universe.",
+      "variationNote": "Some charts use a lighter sky blue or another colour for this day.",
+      "assignments": { "2026": { "day": 4, "deviId": "kushmanda" } }
+    },
+    {
+      "id": "yellow",
+      "name": "Yellow",
+      "hex": "#F5B700",
+      "symbolism": "Cheerfulness, knowledge and the warmth of turmeric",
+      "description": "Yellow is the colour of turmeric and marigold, both used widely in Hindu celebrations. In the 2026 chart it is paired with Maa Skandamata, the nurturing mother.",
+      "variationNote": "Yellow is frequently assigned to different days in different years.",
+      "assignments": { "2026": { "day": 5, "deviId": "skandamata" } }
+    },
+    {
+      "id": "green",
+      "name": "Green",
+      "hex": "#2E7D32",
+      "symbolism": "Growth, harmony and the fertility of the land",
+      "description": "Green stands for new growth and for the fields that the autumn festival is connected with. In the 2026 chart it is paired with Maa Katyayani.",
+      "variationNote": "Green is sometimes assigned to the second or the ninth day in other charts.",
+      "assignments": { "2026": { "day": 6, "deviId": "katyayani" } }
+    },
+    {
+      "id": "grey",
+      "name": "Grey",
+      "hex": "#8A8A8A",
+      "symbolism": "Balance, stability and the quiet of night",
+      "description": "Grey sits between light and dark. The 2026 chart pairs it with Maa Kalaratri, the form associated with night and the removal of fear.",
+      "variationNote": "Some charts use black or dark blue for the seventh day, but some communities avoid black during religious observances.",
+      "assignments": { "2026": { "day": 7, "deviId": "kalaratri" } }
+    },
+    {
+      "id": "purple",
+      "name": "Purple",
+      "hex": "#542788",
+      "symbolism": "Spirituality, devotion and royal dignity",
+      "description": "Purple is associated with devotion and with deeper spiritual awareness. In the 2026 chart it is paired with Maa Mahagauri on Durga Ashtami.",
+      "variationNote": "Pink is also commonly paired with the eighth day in other charts.",
+      "assignments": { "2026": { "day": 8, "deviId": "mahagauri" } }
+    },
+    {
+      "id": "peacock-green",
+      "name": "Peacock Green",
+      "hex": "#00796B",
+      "symbolism": "Uniqueness, fulfilment and individual aspiration",
+      "description": "A blue-green shade named after the peacock, a bird connected with Skanda and with auspiciousness. The 2026 chart pairs it with Maa Siddhidatri on the last day of the nine nights.",
+      "variationNote": "Not every chart includes peacock green; some use sky blue, pink or another colour on Navami.",
+      "assignments": { "2026": { "day": 9, "deviId": "siddhidatri" } }
+    }
+  ]
+}

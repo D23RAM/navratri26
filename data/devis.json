@@ -1,0 +1,291 @@
+{
+  "devis": [
+    {
+      "id": "shailputri",
+      "name": "Maa Shailputri",
+      "transliteration": "Śailaputrī",
+      "sanskrit": "शैलपुत्री",
+      "day": 1,
+      "meaning": "\"Daughter of the Mountain\": shaila means mountain and putrī means daughter. The mountain is Himavat, the Himalaya.",
+      "color": "Orange",
+      "colorHex": "#F57C00",
+      "themes": ["Foundation", "Strength"],
+      "qualities": ["Steadfastness", "Devotion", "Inner strength", "New beginnings"],
+      "symbols": [
+        { "name": "Trident", "meaning": "Held in her right hand; a sign of power over the three realms of experience and the three gunas, in common readings." },
+        { "name": "Lotus", "meaning": "Held in her left hand; purity and spiritual unfolding." },
+        { "name": "Crescent moon", "meaning": "Worn on her forehead; calm and the cycles of time." },
+        { "name": "Bull (Nandi)", "meaning": "Her mount in this form, which is why she is also called Vrishabharudha, 'rider of the bull'." }
+      ],
+      "shortDescription": "The mountain's daughter, who opens the festival. She stands for steadiness and a firm start.",
+      "iconography": "She is usually shown seated on a white bull, a trident in her right hand and a lotus in her left, with a crescent moon on her forehead.",
+      "story": "In the tradition most often told, Shailputri is the earlier goddess Sati reborn. Sati, daughter of Daksha, gave up her life after her father insulted Shiva at a great sacrifice. She was born again as the daughter of the mountain king Himavat and his wife Mena, and grew up to win Shiva once more through devotion. Because her story begins with a return, she is honoured on the first night as the root from which the other eight forms unfold.",
+      "significance": "The first day is traditionally dedicated to her and, in many households, is the day Navratri is formally begun. Some yogic readings associate her with the root of the spine, the base on which all later practice stands. These chakra associations belong to certain traditions and are not universal.",
+      "mantra": "ॐ देवी शैलपुत्र्यै नमः",
+      "mantraTransliteration": "Oṃ Devī Śailaputryai Namaḥ",
+      "mantraTranslation": "Om, salutations to the Goddess Shailaputri.",
+      "mantraNote": "A common devotional formula built on her name. Exact mantras and verses differ between communities.",
+      "image": "images/1.jpg",
+      "imageAlt": "Symbolic emblem for Maa Shailputri: a golden trident, crescent moon and mountain peaks on a deep violet background with a saffron glow.",
+      "sources": [
+        { "label": "Navadurga (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Navadurga" },
+        { "label": "Shailaputri (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Shailaputri" }
+      ]
+    },
+    {
+      "id": "brahmacharini",
+      "name": "Maa Brahmacharini",
+      "transliteration": "Brahmacāriṇī",
+      "sanskrit": "ब्रह्मचारिणी",
+      "day": 2,
+      "meaning": "\"She who practises tapas (austerity)\": in this name brahma is understood as tapas or sacred discipline, and cāriṇī means a woman who follows or practises it.",
+      "color": "White",
+      "colorHex": "#FFFFFF",
+      "themes": ["Discipline", "Devotion"],
+      "qualities": ["Perseverance", "Self-discipline", "Renunciation", "Single-minded devotion"],
+      "symbols": [
+        { "name": "Japa mala", "meaning": "A rosary of beads in her right hand; steady repetition of a name or mantra." },
+        { "name": "Kamandalu", "meaning": "A water pot in her left hand; the simple life of an ascetic." },
+        { "name": "Bare feet and plain dress", "meaning": "She wears no ornaments, showing that her strength comes from discipline rather than display." }
+      ],
+      "shortDescription": "Parvati as the ascetic, whose long and patient penance shows what devotion can endure.",
+      "iconography": "She is shown walking barefoot, with a japa mala in her right hand and a kamandalu in her left. She has no mount and wears simple clothes.",
+      "story": "This is the form of Parvati during her penance to win Shiva as her husband. Tradition describes years of fasting, living on fruit, then leaves, then almost nothing, while enduring heat, rain and cold. The gods and sages are said to have praised her resolve, and her penance is remembered as one of the great examples of constancy in the Puranic literature.",
+      "significance": "Brahmacharini is honoured on the second day as the model of focus and patience. Her name reminds devotees that spiritual strength is built slowly. Some traditions connect her with the sacral centre in the yogic system of chakras.",
+      "mantra": "ॐ देवी ब्रह्मचारिण्यै नमः",
+      "mantraTransliteration": "Oṃ Devī Brahmacāriṇyai Namaḥ",
+      "mantraTranslation": "Om, salutations to the Goddess Brahmacharini.",
+      "mantraNote": "A common devotional formula built on her name. Exact mantras and verses differ between communities.",
+      "image": "images/2.jpg",
+      "imageAlt": "Symbolic emblem for Maa Brahmacharini: a ring of golden prayer beads around a water pot on a deep violet background with a soft white glow.",
+      "sources": [
+        { "label": "Navadurga (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Navadurga" },
+        { "label": "Brahmacharini (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Brahmacharini" }
+      ]
+    },
+    {
+      "id": "chandraghanta",
+      "name": "Maa Chandraghanta",
+      "transliteration": "Candraghaṇṭā",
+      "sanskrit": "चन्द्रघण्टा",
+      "day": 3,
+      "meaning": "\"She whose bell is the moon\": chandra is the moon and ghaṇṭā is a bell. The half-moon on her forehead is shaped like a temple bell.",
+      "color": "Red",
+      "colorHex": "#C62828",
+      "themes": ["Courage", "Grace"],
+      "qualities": ["Courage", "Fearlessness", "Grace", "Protection from harm"],
+      "symbols": [
+        { "name": "Bell-shaped crescent", "meaning": "A half-moon on her brow in the shape of a bell; its sound is said to drive away fear and negative forces." },
+        { "name": "Weapons in ten hands", "meaning": "She is shown carrying several weapons, including a trident, mace, sword and bow, signalling readiness to protect." },
+        { "name": "Lion (or tiger)", "meaning": "Her mount; courage held under control." },
+        { "name": "Golden complexion", "meaning": "Radiance associated with a calm but alert presence." }
+      ],
+      "shortDescription": "The warrior-mother with a bell-shaped moon on her brow, fierce toward fear and gentle toward her devotees.",
+      "iconography": "She is golden in colour and rides a lion, with a crescent moon like a bell on her forehead. She has ten arms holding weapons, with one hand in a gesture of blessing.",
+      "story": "Chandraghanta is associated with the period after Parvati's marriage to Shiva, when she took on the crescent moon as an ornament. She is described as fearsome to demons and kind to those who seek shelter with her. In many descriptions she appears already poised for battle, sitting on her mount as if about to rise.",
+      "significance": "On the third day, devotees honour her as the form that brings courage and peace together. The bell image is a reminder that sound itself can steady the mind. The traditional chakra association offered by some schools is the solar plexus centre.",
+      "mantra": "ॐ देवी चन्द्रघण्टायै नमः",
+      "mantraTransliteration": "Oṃ Devī Candraghaṇṭāyai Namaḥ",
+      "mantraTranslation": "Om, salutations to the Goddess Chandraghanta.",
+      "mantraNote": "A common devotional formula built on her name. Exact mantras and verses differ between communities.",
+      "image": "images/3.jpg",
+      "imageAlt": "Symbolic emblem for Maa Chandraghanta: a golden bell beneath a crescent moon on a deep violet background with a red glow.",
+      "sources": [
+        { "label": "Navadurga (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Navadurga" },
+        { "label": "Chandraghanta (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Chandraghanta" }
+      ]
+    },
+    {
+      "id": "kushmanda",
+      "name": "Maa Kushmanda",
+      "transliteration": "Kūṣmāṇḍā",
+      "sanskrit": "कूष्माण्डा",
+      "day": 4,
+      "meaning": "Commonly explained as \"she who created the cosmic egg with her gentle smile\". The name is read as ku (little), ūṣmā (warmth, energy) and aṇḍa (egg). The exact derivation is explained in more than one way.",
+      "color": "Royal Blue",
+      "colorHex": "#1F4FB3",
+      "themes": ["Creation", "Vitality"],
+      "qualities": ["Creative energy", "Vitality", "Radiance", "Good health"],
+      "symbols": [
+        { "name": "Kalasha (nectar pot)", "meaning": "She holds a pot filled with nectar or life-giving water, representing abundance." },
+        { "name": "Eight arms", "meaning": "Her hands carry a bow, arrow, discus, mace, lotus, japa mala, water pot and a nectar pot, in the common description; the list varies slightly between sources." },
+        { "name": "The sun", "meaning": "Tradition places her in the interior of the sun, the source of warmth and life." },
+        { "name": "Lion", "meaning": "Her mount in this form." }
+      ],
+      "shortDescription": "The smiling creator who, in tradition, brought the universe into being from darkness.",
+      "iconography": "Kushmanda has eight arms and sits on a lion. She holds a bow, arrow, discus, mace, lotus, rosary, water pot and nectar pot, and her expression is gentle.",
+      "story": "According to the tradition associated with this form, the universe was once dark and empty. Kushmanda's soft smile released a spark that brought the cosmos into being, which is why she is called the original creative power. Her place at the centre of the sun is a way of saying that all warmth and light flow from her.",
+      "significance": "Honoured on the fourth day, she is the form that connects Navratri with creation and well-being. Devotees pray to her for health and energy. The centre associated with her in some yogic readings is the heart centre.",
+      "mantra": "ॐ देवी कूष्माण्डायै नमः",
+      "mantraTransliteration": "Oṃ Devī Kūṣmāṇḍāyai Namaḥ",
+      "mantraTranslation": "Om, salutations to the Goddess Kushmanda.",
+      "mantraNote": "A common devotional formula built on her name. Exact mantras and verses differ between communities.",
+      "image": "images/4.jpg",
+      "imageAlt": "Symbolic emblem for Maa Kushmanda: a golden radiant sun above a sacred pot on a deep violet background with a blue glow.",
+      "sources": [
+        { "label": "Navadurga (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Navadurga" },
+        { "label": "Kushmanda (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Kushmanda" }
+      ]
+    },
+    {
+      "id": "skandamata",
+      "name": "Maa Skandamata",
+      "transliteration": "Skandamātā",
+      "sanskrit": "स्कन्दमाता",
+      "day": 5,
+      "meaning": "\"Mother of Skanda\": Skanda (also called Kartikeya or Murugan) is the war god and son of Shiva and Parvati; mātā means mother.",
+      "color": "Yellow",
+      "colorHex": "#F5B700",
+      "themes": ["Motherhood", "Compassion"],
+      "qualities": ["Maternal love", "Compassion", "Protection", "Warmth"],
+      "symbols": [
+        { "name": "Child Skanda", "meaning": "She holds her infant son on her lap, showing the mother's protective love." },
+        { "name": "Two lotuses", "meaning": "She carries a lotus in each of two raised hands, signalling purity." },
+        { "name": "Abhaya mudra", "meaning": "One hand is raised in a gesture meaning 'do not fear'." },
+        { "name": "Lotus seat", "meaning": "She sits on a lotus, so she is also called Padmasana Devi, 'she who sits on the lotus'." }
+      ],
+      "shortDescription": "The mother holding her child Skanda, a picture of love that is also protection.",
+      "iconography": "She has four arms, sits on a lotus with a lion beside her, and cradles the child Skanda in one arm. Two of her hands hold lotuses and one is raised in blessing.",
+      "story": "Skanda was born to lead the gods against the demon Tarakasura, whom, according to the Puranas, only a child of Shiva could defeat. As his mother, Parvati took the form of Skandamata. Because she is shown with the child, she is the form of Durga people remember when they speak of the goddess as a mother who protects her children.",
+      "significance": "The fifth day highlights motherhood as strength. Worshippers honour her for the wellbeing of their families and children. Some readings link her to the throat centre in the system of chakras, but this is not universal.",
+      "mantra": "ॐ देवी स्कन्दमात्रे नमः",
+      "mantraTransliteration": "Oṃ Devī Skandamātre Namaḥ",
+      "mantraTranslation": "Om, salutations to the Goddess, Mother of Skanda.",
+      "mantraNote": "A common devotional formula built on her name. Exact mantras and verses differ between communities.",
+      "image": "images/5.jpg",
+      "imageAlt": "Symbolic emblem for Maa Skandamata: a golden spear above a lotus on a deep violet background with a warm yellow glow.",
+      "sources": [
+        { "label": "Navadurga (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Navadurga" },
+        { "label": "Skandamata (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Skandamata" }
+      ]
+    },
+    {
+      "id": "katyayani",
+      "name": "Maa Katyayani",
+      "transliteration": "Kātyāyanī",
+      "sanskrit": "कात्यायनी",
+      "day": 6,
+      "meaning": "\"Of the Katyayana lineage\": the name is linked to the sage Katyayana, who in tradition prayed for the goddess to be born as his daughter.",
+      "color": "Green",
+      "colorHex": "#2E7D32",
+      "themes": ["Courage", "Righteousness"],
+      "qualities": ["Courage", "Righteousness", "Determination", "Victory over injustice"],
+      "symbols": [
+        { "name": "Sword", "meaning": "Held in her lower left hand; discernment that cuts through ignorance." },
+        { "name": "Lotus", "meaning": "Held in her upper left hand; purity in the middle of struggle." },
+        { "name": "Lion", "meaning": "Her mount; courage and sovereignty." },
+        { "name": "Abhaya and varada mudras", "meaning": "Her right hands offer protection and blessing." }
+      ],
+      "shortDescription": "The warrior goddess associated with the defeat of Mahishasura and with the pursuit of justice.",
+      "iconography": "Katyayani is shown with four arms, seated on a lion. She holds a sword and a lotus in her left hands and makes gestures of protection and blessing with her right hands.",
+      "story": "In the version of the story most often connected with her, the gods combined their energies to form a goddess who could defeat the buffalo demon Mahishasura. The sage Katyayana was the first to worship her, which gave her this name. A separate tradition, recorded in the Bhagavata Purana, tells how the young women of Vrindavan worshipped Katyayani with the wish to have Krishna as their husband.",
+      "significance": "She is honoured on the sixth day as the form who upholds dharma through action. In some regions her worship is especially associated with prayers for good marriages. Some yogic readings link her to the brow centre.",
+      "mantra": "ॐ देवी कात्यायन्यै नमः",
+      "mantraTransliteration": "Oṃ Devī Kātyāyanyai Namaḥ",
+      "mantraTranslation": "Om, salutations to the Goddess Katyayani.",
+      "mantraNote": "A common devotional formula built on her name. Exact mantras and verses differ between communities.",
+      "image": "images/6.jpg",
+      "imageAlt": "Symbolic emblem for Maa Katyayani: a golden sword and a lotus on a deep violet background with a green glow.",
+      "sources": [
+        { "label": "Navadurga (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Navadurga" },
+        { "label": "Katyayani (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Katyayani" }
+      ]
+    },
+    {
+      "id": "kalaratri",
+      "name": "Maa Kalaratri",
+      "transliteration": "Kālarātrī",
+      "sanskrit": "कालरात्रि",
+      "day": 7,
+      "meaning": "\"The dark night\" or \"the night of time\": kāla can mean both black and time, and rātri means night.",
+      "color": "Grey",
+      "colorHex": "#8A8A8A",
+      "themes": ["Fearlessness", "Transformation"],
+      "qualities": ["Fearlessness", "Destruction of ignorance", "Protection", "Transformation"],
+      "symbols": [
+        { "name": "Dark complexion", "meaning": "The night that hides nothing from the goddess; the unknown, faced without fear." },
+        { "name": "Lightning-like necklace", "meaning": "A garland that flashes like lightning, light appearing inside darkness." },
+        { "name": "Donkey (gardabha)", "meaning": "Her mount in this form, a humble animal that carries her through the night." },
+        { "name": "Abhaya and varada mudras", "meaning": "Her right hands bless and protect despite her frightening appearance." }
+      ],
+      "shortDescription": "The dark night, who looks terrifying but removes fear for her devotees.",
+      "iconography": "Kalaratri has a dark complexion, wild hair, three eyes and a shining necklace. She rides a donkey. Her right hands show gestures of protection and blessing; her left hands carry a sword and an iron hook, according to common descriptions.",
+      "story": "Kalaratri is often associated with the part of the Devi Mahatmya tradition in which the goddess faces the demons Shumbha and Nishumbha, and with the destruction of Raktabija. Many devotees see her as closely related to Kali. Even though her appearance is fierce, the tradition insists she is called shubhankari, 'she who does good', because she dispels fear.",
+      "significance": "The seventh night is usually considered a turning point in Navratri. Devotees honour her as the power that removes ignorance and fear. The crown centre is the one associated with her in some readings of the chakras.",
+      "mantra": "ॐ देवी कालरात्र्यै नमः",
+      "mantraTransliteration": "Oṃ Devī Kālarātryai Namaḥ",
+      "mantraTranslation": "Om, salutations to the Goddess Kalaratri.",
+      "mantraNote": "A common devotional formula built on her name. Exact mantras and verses differ between communities.",
+      "image": "images/7.jpg",
+      "imageAlt": "Symbolic emblem for Maa Kalaratri: a golden lightning bolt among stars on a deep violet background with a grey glow.",
+      "sources": [
+        { "label": "Navadurga (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Navadurga" },
+        { "label": "Kalaratri (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Kalaratri" }
+      ]
+    },
+    {
+      "id": "mahagauri",
+      "name": "Maa Mahagauri",
+      "transliteration": "Mahāgaurī",
+      "sanskrit": "महागौरी",
+      "day": 8,
+      "meaning": "\"The great radiant one\": mahā means great and gaurī means fair, bright or radiant.",
+      "color": "Purple",
+      "colorHex": "#542788",
+      "themes": ["Purity", "Serenity"],
+      "qualities": ["Purity", "Serenity", "Forgiveness", "Renewal"],
+      "symbols": [
+        { "name": "White clothing", "meaning": "She is dressed in white, standing for purity and peace." },
+        { "name": "Bull", "meaning": "She rides a white bull, which is why she is also called Vrishabharudha." },
+        { "name": "Trident and damaru", "meaning": "Her upper hands hold a trident and a small drum, both linked with Shiva." },
+        { "name": "Abhaya and varada mudras", "meaning": "Gestures of protection and blessing." }
+      ],
+      "shortDescription": "The radiant, peaceful goddess whose penance is said to have made her shine like the moon.",
+      "iconography": "She has four arms and is dressed in white, sitting on a white bull. Her hands hold a trident and a damaru, while the others are in gestures of protection and blessing.",
+      "story": "In the tradition associated with her, Parvati's long penance left her dark and covered with dust. Shiva, pleased by her devotion, is said to have washed her with the water of the Ganga, after which her skin shone with a fair, moon-like glow. She was then called Mahagauri. Another common version describes a lion arriving, hungry, and waiting beside her until her meditation ended.",
+      "significance": "The eighth night, Durga Ashtami, is one of the most important days of the festival in many communities. In some families, young girls are honoured on this day. Mahagauri is a reminder that suffering can be followed by renewal.",
+      "mantra": "ॐ देवी महागौर्यै नमः",
+      "mantraTransliteration": "Oṃ Devī Mahāgauryai Namaḥ",
+      "mantraTranslation": "Om, salutations to the Goddess Mahagauri.",
+      "mantraNote": "A common devotional formula built on her name. Exact mantras and verses differ between communities.",
+      "image": "images/8.jpg",
+      "imageAlt": "Symbolic emblem for Maa Mahagauri: a golden conch, a lotus and a crescent moon on a deep violet background with a purple glow.",
+      "sources": [
+        { "label": "Navadurga (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Navadurga" },
+        { "label": "Mahagauri (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Mahagauri" }
+      ]
+    },
+    {
+      "id": "siddhidatri",
+      "name": "Maa Siddhidatri",
+      "transliteration": "Siddhidātrī",
+      "sanskrit": "सिद्धिदात्री",
+      "day": 9,
+      "meaning": "\"Giver of perfections\": siddhi means accomplishment or spiritual power, and dātrī means giver.",
+      "color": "Peacock Green",
+      "colorHex": "#00796B",
+      "themes": ["Fulfilment", "Wisdom"],
+      "qualities": ["Fulfilment", "Wisdom", "Spiritual accomplishment", "Grace"],
+      "symbols": [
+        { "name": "Discus (chakra)", "meaning": "Held in one hand; the cycle of time and of dharma." },
+        { "name": "Mace", "meaning": "Held in another hand; strength used with purpose." },
+        { "name": "Conch", "meaning": "A sound of auspicious beginnings and victory." },
+        { "name": "Lotus seat", "meaning": "She sits on a lotus, a sign of purity and completion." }
+      ],
+      "shortDescription": "The giver of perfections, honoured on the final night as the fulfilment of the journey.",
+      "iconography": "She has four arms holding a discus, a mace, a conch and a lotus, and is seated on a lotus. Some images show her on a lion.",
+      "story": "Tradition holds that even Shiva obtained the siddhis through worship of this goddess. According to the Devi Purana, half of his body became that of the goddess, which is the origin of the form known as Ardhanarishvara, half man and half woman. In this reading she is not only a giver of powers, but the wholeness behind them.",
+      "significance": "The ninth day, Maha Navami, completes the cycle of nine forms. In many homes it is the day when the Navratri worship is brought to a close, before Vijayadashami on the tenth day. For those who follow the chakra readings, she is sometimes linked to the whole system.",
+      "mantra": "ॐ देवी सिद्धिदात्र्यै नमः",
+      "mantraTransliteration": "Oṃ Devī Siddhidātryai Namaḥ",
+      "mantraTranslation": "Om, salutations to the Goddess Siddhidatri.",
+      "mantraNote": "A common devotional formula built on her name. Exact mantras and verses differ between communities.",
+      "image": "images/9.jpg",
+      "imageAlt": "Symbolic emblem for Maa Siddhidatri: a golden discus above a lotus on a deep violet background with a peacock-green glow.",
+      "sources": [
+        { "label": "Navadurga (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Navadurga" },
+        { "label": "Siddhidatri (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Siddhidatri" }
+      ]
+    }
+  ]
+}
